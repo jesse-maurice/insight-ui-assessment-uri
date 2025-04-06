@@ -23,14 +23,16 @@ This project implements a hashtag sentiment insight page at `/insights/[hashtag]
 
 *(Add screenshots here after testing)*
 
-1. **Landing Page (Light Mode)**: Buttons animate in with scroll reveal.
-   - ![Landing Page Light](screenshots/landing-light.png)
-2. **Insights Page (Dark Mode)**: Chart with min/max markers animates in.
-   - ![Insights Page Dark](screenshots/insights-dark.png)
-3. **Mobile View**: Responsive card layout.
-   - ![Mobile View](screenshots/mobile.png)
+Check the `screenshots` folder in this repository for the following:
 
-*To generate screenshots: Run `npm run dev`, use a browser tool (e.g., Chrome DevTools), and capture the pages.*
+1. **Landing Page (Light Mode)**
+   - See `screenshots/landing-light.png`
+2. **Insights Page (Dark Mode)**
+   - See `screenshots/insights-dark.png`
+3. **Mobile View**: Responsive card layout.
+   - See `screenshots/mobile-dark.png`
+
+For a full list of screenshots and demo images, visit the [screenshots folder](screenshots/).
 
 ## Time Spent
 
